@@ -1,0 +1,20 @@
+.navBar {
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 33.3333%);
+    background: rgb(100, 19, 11);
+    border-bottom: 4px solid black;
+}
+
+.navBarHeading {
+    grid-column: 2;
+    display: grid;
+    justify-items: center;
+}
+.navBarHeading h1 {
+    font-size: 32pt;
+}
+.navBarHeading img {
+    width: 100px;
+    height: auto;
+}

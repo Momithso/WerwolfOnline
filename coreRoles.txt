@@ -1,0 +1,9 @@
+Armor
+Blinzelmädchen
+Jäger
+Bürgermeister
+Seher
+Dieb
+Dorfbewohner
+Werwolf
+Hexe

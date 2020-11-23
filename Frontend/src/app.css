@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'MarkoOne';
+    src: url("../assets/fonts/MarkoOne-Regular.ttf") format('truetype');
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    width: 100vw;
+    min-height: 100vh;
+}
+
+h1 {
+    font-family: MarkoOne;
+    font-size: 24pt;
+}
